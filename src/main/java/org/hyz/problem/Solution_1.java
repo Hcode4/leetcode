@@ -1,4 +1,4 @@
-package org.hyz.problem.array;
+package org.hyz.problem;
 
 import org.hyz.problem.common.SolutionSort;
 
